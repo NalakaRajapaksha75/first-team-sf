@@ -5,6 +5,10 @@ Nalaka
 Nish
 Premilouis
 kjhfskjhdsf
+nuwan
+buddhika 
+nishan
+lakshika
 
 Software Requirements
 =====================
@@ -14,6 +18,11 @@ to easy to pay
 
 Objective
 =================
+<<<<<<< HEAD
 to do our project
 my name is nuwan nalaka 
 i added features here
+=======
+to do our projecthe
+here is i'm going to add new features
+>>>>>>> nuwannalaka
