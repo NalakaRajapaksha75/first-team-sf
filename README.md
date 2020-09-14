@@ -16,7 +16,13 @@ need to be simple
 to easy to pay
  added new features
 
-Objective
+i'm buddika adding
+==================
+here is my addings there i will see you tomorw
+thank you.
+
+
+bjective
 =================
 <<<<<<< HEAD
 to do our project
