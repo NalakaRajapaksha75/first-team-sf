@@ -5,6 +5,10 @@ Nalaka
 Nish
 Premilouis
 kjhfskjhdsf
+nuwan
+buddhika 
+nishan
+lakshika
 
 Software Requirements
 =====================
@@ -14,5 +18,5 @@ to easy to pay
 
 Objective
 =================
-to do our project
-
+to do our projecthe
+here is i'm going to add new features
