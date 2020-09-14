@@ -21,8 +21,9 @@ Software Requirements
 need to be simple
 to easy to pay
  added new features
+nuwan added things here
 
-Objective
+On bjective
 =================
 <<<<<<< HEAD
 to do our project
